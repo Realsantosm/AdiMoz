@@ -1,0 +1,2 @@
+# AdiMoz
+Movies Booking App
